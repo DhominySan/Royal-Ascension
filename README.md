@@ -1,8 +1,8 @@
 # Royal Ascension
 
 ![Logo](Royal-Ascension/prints/p0.png)
-Royal-Ascension/prints
-/p0.png
+![p0](https://github.com/DhominySan/Royal-Ascension/assets/127134301/22b9a4ce-876d-44d5-9872-2ca7608c387b)
+
 
 
 ## Descrição
