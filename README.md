@@ -29,8 +29,9 @@ Dialogo:
 Cenario:
 ![p1](https://github.com/DhominySan/Royal-Ascension/assets/127134301/459bb409-0e59-4257-81e3-7cfc76321c8e)
 Boss Fight:
-![p2](https://github.com/DhominySan/Royal-Ascension/assets/127134301/4f10907e-2d32-4796-8b36-331f54d55f54), ![p3](https://github.com/DhominySan/Royal-Ascension/assets/127134301/2e0e9ce7-aba9-459a-b53d-c302794ed37c)
-
+![p2](https://github.com/DhominySan/Royal-Ascension/assets/127134301/4f10907e-2d32-4796-8b36-331f54d55f54)
+Inicio:
+![p3](https://github.com/DhominySan/Royal-Ascension/assets/127134301/2e0e9ce7-aba9-459a-b53d-c302794ed37c)
 
 ## Contato
 Dhominy Murillo - contact.dhominy@gmail.com
