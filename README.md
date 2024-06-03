@@ -1,6 +1,6 @@
 # Royal Ascension
 
-(pront/p1)
+(pront/p1.png)
 
 ## Descrição
 Um jogo de RPG focado na historia do personagem principal, Nicholas é o principe de EverHart, Sua jornada começa quando ele descobre que seu pai (O Rei) est muito doente e um antigo amigo de seu pai, o bruxo Lucius oferece a solução para ele, enfrentar os 4 reinos elementais e coletar o elixir elemental de cada reino, assim formando o elixir da vida para curar o rei. Assim o principe Nicholas vai em busca dos elixis com ajuda do bruxo Lucius.
